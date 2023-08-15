@@ -12,8 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Any React.Js / Front-end based front-end works**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/r-sain](https://github.com/r-sain?tab=repositories)](My Github Repositories)
-
+- 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/r-sain?tab=repositories)
 - 📫 How to reach me **rsainwork@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bQgM1hiBXPdM2mG_hTEcRYwToZuuJKtr/view?usp=sharing](https://drive.google.com/file/d/1bQgM1hiBXPdM2mG_hTEcRYwToZuuJKtr/view?usp=sharing)
