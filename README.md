@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/r-sain?tab=repositories)
 - 📫 How to reach me **rsainwork@gmail.com**
 
-- 📄 Here is my Resume [https://drive.google.com/file/d/1bQgM1hiBXPdM2mG_hTEcRYwToZuuJKtr/view?usp=sharing](https://drive.google.com/file/d/1Vna96XtnJ6SWy0_bdu_Dfe92DyVsOwrs/view?usp=sharing)
+- 📄 Here is my Resume([https://drive.google.com/file/d/1Vna96XtnJ6SWy0_bdu_Dfe92DyVsOwrs/view?usp=sharing](https://drive.google.com/file/d/1t4QdcsBrMrsTjrgG0ySgER6kWR0mYy_M/view?usp=drive_link))
 
 - ⚡ Fun fact **I am a magician**
 
