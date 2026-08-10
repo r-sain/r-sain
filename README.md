@@ -58,15 +58,6 @@ Experienced Full-Stack Engineer with over 5 years of hands-on expertise architec
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-sain&show_icons=true&theme=tokyonight&count_private=true" alt="Rohit's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-sain&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="165" />
-</div>
-
-<br />
-
 <div align="center">
   <sub>Designed & Maintained by <a href="https://github.com/r-sain">Rohit Sain</a></sub>
 </div>
