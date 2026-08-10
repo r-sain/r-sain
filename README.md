@@ -51,7 +51,7 @@ Experienced Full-Stack Engineer with over 5 years of hands-on expertise architec
 
 ### 🚀 Key Projects & Impact
 
-#### 🏋️ [Akhara — Gym Management Dashboard](https://github.com/r-sain?tab=repositories)
+#### 🏋️ [Akhara — Gym Management Dashboard](https://github.com/r-sain/gym-management)
 *Full-Stack Engineer | React.js · Node.js · Express.js · MongoDB*
 - Architected a full-stack admin portal managing 200+ active member profiles, digital onboarding, and subscription tracking.
 - Automated payment due reminders via WhatsApp API templates and digital invoice PDF generators, reducing manual administrative effort by **65%**.
